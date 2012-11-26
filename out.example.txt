@@ -1,0 +1,7 @@
+IN: There are many fine hamburgers in New York, even the most mediocre of which would put its British counterparts to shame.
+----------------------------------------
+Words: are <=> counterparts
+OUT: There counterparts many fine hamburgers in New York, even the most mediocre of which would put its British are to shame.
+----------------------------------------
+Words: first and last
+OUT2:shame are many fine hamburgers in New York, even the most mediocre of which would put its British counterparts to There.
